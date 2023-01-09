@@ -1,0 +1,7 @@
+langdetect==1.0.9
+pandas~=1.5.3
+simpletransformers~=0.63.9
+six==1.16.0
+torch~=1.13.1
+schema~=0.7.5
+setuptools~=65.5.1
